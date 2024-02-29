@@ -34,7 +34,6 @@
 <img src="https://i.pinimg.com/originals/b0/af/27/b0af27f4abe6c87f474667254e1405c6.gif"/> 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)</p>
+<br><p align="centre"><b>Thank you for your attention!</b></p>  
 <br></div>
  
