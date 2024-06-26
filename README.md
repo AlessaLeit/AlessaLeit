@@ -28,7 +28,7 @@
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=purple)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700)&nbsp;
-
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD700)&nbsp;
 <br>
 <img src="https://i.pinimg.com/originals/b0/af/27/b0af27f4abe6c87f474667254e1405c6.gif"/> 
 
