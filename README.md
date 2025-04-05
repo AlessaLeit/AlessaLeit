@@ -13,15 +13,15 @@
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=purple)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=purple)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-0D1117.svg?&style=for-the-badge&logo=PyCharm&logoColor=24D57D)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FE5221)&nbsp;
 
 
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 
 
