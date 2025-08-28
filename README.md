@@ -2,7 +2,7 @@
 <div align="center">   
 <h1 align="center">HELLO WORLD! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 <a href="https://www.instagram.com/alessaleit/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C71585"></a>
-<a href="https://www.linkedin.com/in/alessandra-leite-47357a29a/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+<a href="https://www.linkedin.com/in/alessaleit/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
 <a href="mailto:alessandraleite1807@hotmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=c71610"></a>
 <a href="https://wa.me/55+47+989036464"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=WhatsApp&logoColor=green"></a>
 <a href="http://discord.com/users/alessaleit"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289da"></a>
