@@ -7,7 +7,7 @@
 <a href="https://wa.me/55+47+989036464"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=WhatsApp&logoColor=green"></a>
 <a href="http://discord.com/users/alessaleit"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289da"></a>
 <br>
-<p> I'm starting this journey now, I'm a Brazilian student of Software Engineering, I'm 18 years old, and I welcome tips and advice! I enjoy going to the gym, playing games, reading, and studying new things. Currently, I am focusing on studying Python, but I intend to expand my knowledge further </p> 
+<p> I'm starting this journey now, I'm a Brazilian student of Software Engineering, I'm 19 years old, and I welcome tips and advice! I enjoy going to the gym, playing games, reading, and studying new things. Currently, I am focusing on studying Python, but I intend to expand my knowledge further </p> 
 
 </div> 
 
