@@ -1,41 +1,41 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38BDAE&height=120&section=header"/>
 <div align="center">   
 <h1 align="center">HELLO WORLD! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
-<a href="https://www.instagram.com/alessaleit/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C71585"></a>
-<a href="https://www.linkedin.com/in/alessaleit/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
-<a href="mailto:alessandraleite1807@hotmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=c71610"></a>
-<a href="https://wa.me/55+47+989036464"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=WhatsApp&logoColor=green"></a>
-<a href="http://discord.com/users/alessaleit"> <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289da"></a>
+<p align="center">
+  <a href="https://www.instagram.com/seuusuario">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/seuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discord.gg/seuconvite">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 <br>
-<p> I'm starting this journey now, I'm a Brazilian student of Software Engineering, I'm 19 years old, and I welcome tips and advice! I enjoy going to the gym, playing games, reading, and studying new things. Currently, I am focusing on studying Python, but I intend to expand my knowledge further </p> 
+<p>
+  I am a Junior Python Developer at the beginning of my professional journey. Currently, I am a Software Engineering student from Brazil, 19 years old, and always open to tips and advice! In my free time, I enjoy going to the gym, gaming, reading, and learning new things. My primary focus is deepening my expertise in Python while consistently expanding my technical horizons.
+</p> 
 
 </div> 
 
 ### Main skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700)&nbsp;
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)&nbsp;
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,fastapi,selenium,django,flutter,dart,py,vue)]
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-0D1117.svg?&style=for-the-badge&logo=PyCharm&logoColor=24D57D)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FE5221)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=5C2D91)&nbsp;
-
-
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,postman,git,github,vscode,visualstudio,figma,pycharm,postgres,mysql,firebase,azure)]
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)&nbsp;
+[![Studying](https://skillicons.dev/icons?i=nginx,fastapi,py,vue)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlessaLeit&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alessandra Leite github stats" /> 
-  <img width="50%" height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessaLeit&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessaLeit&bg_color=0d1117&color=00bfbf&line=00bdbd&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 
  
