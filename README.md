@@ -23,13 +23,13 @@
 </div> 
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,fastapi,selenium,django,flutter,dart,py,vue)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,fastapi,selenium,django,flutter,dart,py,vue)
 
 ### Tools:
-[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,postman,git,github,vscode,visualstudio,figma,pycharm,postgres,mysql,firebase,azure)]
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,postman,git,github,vscode,visualstudio,figma,pycharm,postgres,mysql,firebase,azure)
 
 ### Studying in this moment:
-[![Studying](https://skillicons.dev/icons?i=nginx,fastapi,py,vue)
+![Studying](https://skillicons.dev/icons?i=nginx,fastapi,py,vue)
 
 
 <div align="center">  
