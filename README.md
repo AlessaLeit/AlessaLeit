@@ -1,18 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BCBCBC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d1ad4&height=120&section=header"/>
 <div align="center">   
 <h1 align="center">HELLO WORLD! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 <p align="center">
   <a href="https://www.instagram.com/seuusuario">
-    <img src="https://img.shields.io/badge/Instagram-BCBCBC?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-1d1ad4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/seuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-BCBCBC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-1d1ad4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-BCBCBC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-1d1ad4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://discord.gg/seuconvite">
-    <img src="https://img.shields.io/badge/Discord-BCBCBC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-1d1ad4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 <br>
@@ -34,7 +34,7 @@
 
 <div align="center">  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessaLeit&bg_color=0d1117&color=BCBCBC&line=BCBCBC&point=ffd966&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlessaLeit&bg_color=0d1117&color=BCBCBC&line=1d1ad4&point=ffd966&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
